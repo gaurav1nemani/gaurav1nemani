@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23360
-Fork on GitHub7934
 <h1 align="center">Hello! I am Gaurav Nemani 👋</h1>
 <h2 align="center">I am a Data Enthusiast 💻 and Risk Whisperer 📊</h2>
 <h3 align="center">⭐ Chasing insights that don’t just inform, but inspire action ⭐</h3>
