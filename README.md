@@ -4,7 +4,7 @@
 
 - 🛠️ I’m currently working on **Insurance Fraud Detection: EDA Analysis + Prediction**
 
-- 🎓 I’m currently studying **Data Science and Big Data Analystics**
+- 🎓 I’m currently studying **Data Science and Big Data Analystics for Business**
 
 - 🤝 I’m looking to collaborate on **Data Science/ Data Analytics/ Risk Analysis Projects**
 
