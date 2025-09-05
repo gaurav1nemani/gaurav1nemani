@@ -3,23 +3,63 @@
 <h3 align="center">⭐ Chasing insights that don’t just inform, but inspire action ⭐</h3>
 
 - 🛠️ I’m currently working on **Insurance Fraud Detection: EDA Analysis + Prediction**
+- 🎓 I’m currently studying **Data Science and Big Data Analytics for Business**
+- 🤝 I’m looking to collaborate on **Data Science / Data Analytics / Risk Analysis projects**
 
-- 🎓 I’m currently studying **Data Science and Big Data Analystics for Business**
+<h3 align="left">Languages and Tools</h3>
 
-- 🤝 I’m looking to collaborate on **Data Science/ Data Analytics/ Risk Analysis Projects**
+<!-- Badges add visibility for tools Linguist doesn't count (e.g., Tableau) -->
+<p>
+  <!-- Core analytics stack -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS-1E90FF?logoColor=white" />
+
+  <!-- Platforms / libs -->
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" />
+</p>
+
+<!-- Top Languages (PUBLIC repos only, hosted on the public Vercel instance) -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav1nemani&layout=compact&langs_count=10&hide=rich%20text%20format&theme=radical&card_width=495&exclude_repo=BigSASRepoName,LargeAutoGenRepo"
+    alt="Top languages across my public repos (size-weighted)"
+  />
+</p>
+
+<!-- Optional: overall GitHub stats (public) -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gaurav1nemani&show_icons=true&theme=radical"
+    alt="GitHub stats"
+  />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gauravnemani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravnemani" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gauravnemani" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravnemani" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+<!-- If you self-host GitHub Readme Stats with a PAT, use THIS Top Languages card instead.
+     This version can include PRIVATE repos. Replace YOUR_DEPLOYED_URL with your Vercel URL.
+     Note: count_private=true only works on your own deployed instance, not on the public endpoint.
+-->
+<!--
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav1nemani&show_icons=true&locale=en&layout=compact&langs_count=10&hide=rich%20text%20format&theme=radical" 
-       alt="gaurav1nemani" />
+  <img
+    src="https://YOUR_DEPLOYED_URL/api/top-langs?username=gaurav1nemani&layout=compact&langs_count=10&hide=rich%20text%20format&theme=radical&card_width=495&exclude_repo=BigSASRepoName,LargeAutoGenRepo&count_private=true"
+    alt="Top languages across my public + private repos"
+  />
 </p>
-
-
+-->
